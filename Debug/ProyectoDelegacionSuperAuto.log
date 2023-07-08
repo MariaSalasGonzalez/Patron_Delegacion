@@ -1,0 +1,13 @@
+﻿  SuperAuto.cpp
+c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(67): error C2259: 'submarino': no se puede crear una instancia de una clase abstract
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(67): note: debido a los siguientes miembros:
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(67): note: 'void medioTransporte::encender(void)': es abstracto
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(6): note: vea la declaración de 'medioTransporte::encender'
+c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(68): error C2259: 'helicoptero': no se puede crear una instancia de una clase abstract
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(68): note: debido a los siguientes miembros:
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(68): note: 'void medioTransporte::encender(void)': es abstracto
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(6): note: vea la declaración de 'medioTransporte::encender'
+c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(114): error C2259: 'superAuto': no se puede crear una instancia de una clase abstract
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(114): note: debido a los siguientes miembros:
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(114): note: 'void medioTransporte::encender(void)': es abstracto
+  c:\users\escinf\source\repos\proyectodelegacionsuperauto\proyectodelegacionsuperauto\superauto.cpp(6): note: vea la declaración de 'medioTransporte::encender'
